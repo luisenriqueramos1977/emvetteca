@@ -13,7 +13,7 @@
 			 <nav id="navigation">
 					<ul id="nav">
 						<li><a href="index.php">Home</a></li>
-						<li><a href="#">Jabones</a></li>
+						<li><a href="producto.php">Productos</a></li>
 						<li><a href="#">Virutas</a></li>
 						<li><a href="#">Desodorantes</a></li>
 					</ul>
@@ -25,10 +25,14 @@
 				<div id="sidebar">
 			
 				</div>
+				
+				
 			
-				<footer>
-				<p> "Todos los Derechos Reservado"</p>
-				</footer>
+			<div id="footer">
+							<p> "Webdeveloper Luis Ramos. Todos los Derechos Reservado"</p>
+			
+				</div>
+				
 		</div>
     </body>
     
